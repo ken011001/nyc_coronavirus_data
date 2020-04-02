@@ -1,0 +1,39 @@
+import urllib.request
+import json
+import plotly
+import plotly.express as px
+import pandas as pd
+from github import Github
+plotly.offline.init_notebook_mode(connected=True)
+
+# NY Zipcode GeoJson
+with urllib.request.urlopen('https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/ny_new_york_zip_codes_geo.min.json') as response:
+    ny_zip = json.load(response)
+
+# Download NYC Health Data
+url = "https://raw.githubusercontent.com/nychealth/coronavirus-data/master/tests-by-zcta.csv"
+urllib.request.urlretrieve(url, filename="/Users/wguo017/OneDrive/Project/Python/NYC_Coronavirus/tests-by-zcta.csv")
+
+nyc_coronavirus_zip = pd.read_csv('/Users/wguo017/OneDrive/Project/Python/NYC_Coronavirus/tests-by-zcta.csv', dtype={"MODZCTA": str})
+nyc_coronavirus_zip = nyc_coronavirus_zip.rename(columns={"MODZCTA": "ZIPCODE", "Positive": "Positive", "Total": "Total"})
+nyc_coronavirus_zip['Test Positive Rate']  = nyc_coronavirus_zip.apply(lambda row: row.Positive / row.Total, axis = 1)
+
+nyc_region = pd.read_csv('/Users/wguo017/OneDrive/Project/Python/NYC_Coronavirus/nyc_region_names.csv',
+                         dtype={"ZIPCODE": str, "Borough": str, "Neighborhood": str})
+nyc_coronavirus_zip = nyc_coronavirus_zip.merge(nyc_region, left_on='ZIPCODE', right_on='ZIPCODE')
+
+fig = px.choropleth(nyc_coronavirus_zip, geojson=ny_zip, color="Positive",
+                    locations="ZIPCODE", featureidkey="properties.ZCTA5CE10",
+                    projection="mercator", hover_name="ZIPCODE",
+                    hover_data=["ZIPCODE", "Borough", "Neighborhood", "Positive", "Total", "Test Positive Rate"],
+                    color_continuous_scale=px.colors.sequential.dense, range_color=[0, nyc_coronavirus_zip.max()[1]],
+                    title='NYC Coronavirus Positive Cases by Zip Code')
+fig.update_geos(fitbounds="locations", visible=False)
+fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+plotly.offline.plot(fig, filename='NYC_Coronavirus_Cases_ZIP.html')
+
+
+g = Github("ken011001", "Hust0850")
+repo = g.get_repo("ken011001/nyc_coronavirus_data")
+contents = repo.get_contents("NYC_Coronavirus_Cases_ZIP.html")
+repo.update_file(contents.path, "more tests", "more tests", contents.sha, branch="test")
