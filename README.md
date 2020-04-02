@@ -3,4 +3,4 @@
 ### [NYC Coronavirus Cases Map by ZIP Code](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/NYC_Coronavirus_Cases_ZIP.html)
 
 
-###### Source of Data: *NYC Department of Health and Mental Hygiene (DOHMH)[https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
+###### Source of Data: *NYC Department of Health and Mental Hygiene (DOHMH)[ https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
