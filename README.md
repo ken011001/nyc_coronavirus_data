@@ -8,8 +8,7 @@
 
 ### [US Coronavirus Cases Line Chart - State Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Cases_Line_State.html)
 ### [US Coronavirus Daily New Cases Line Chart - State Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Daily%20New_Cases_Line_State.html)
-###### Source of Data: *The New York Times, based on reports from state and local health agencies [
-https://github.com/nychealth/coronavirus-data](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)*
+###### Source of Data: *The New York Times, based on reports from state and local health agencies [https://github.com/nychealth/coronavirus-data](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)*
 
 #
 
