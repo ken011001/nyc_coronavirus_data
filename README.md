@@ -1,4 +1,4 @@
-# Coronavirus Cases in US
+# Coronavirus Cases in the US
 
 ### [NYC Coronavirus Cases Historical Map - ZIP Code Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/NYC_Coronavirus_Cases_ZIP.html)
 ###### Source of Data: *NYC Department of Health and Mental Hygiene (DOHMH)[ https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
