@@ -15,5 +15,4 @@
 
 
 ### [US Coronavirus Cases Historical Map - County Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Cases_Scatter_County.html)
-###### Source of Data: *Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)[
-https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)*
+###### Source of Data: *Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)[https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)*
