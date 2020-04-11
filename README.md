@@ -7,7 +7,7 @@ By using publically available datasets, I am visualizing the spead of the Corona
 
 
 ### [NYC Coronavirus Cases Historical Map - ZIP Code Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/NYC_Coronavirus_Cases_ZIP.html)
-![](images/NYC_Daily_Tested_and_Positive_Cases.png?raw=true)
+![](NYC_Daily_Tested_and_Positive_Cases.png?raw=true)
 ###### Source of Data: *NYC Department of Health and Mental Hygiene (DOHMH)[ https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
 
 #
