@@ -1,5 +1,7 @@
 # Coronavirus Cases in the US
 
+By using publically available datasets, I am visualizing the spead of the Coronavirus in New York City by Zip code level and  the spread in the United States by County and State Level. Rough estimations of the exponential growth rate of the positive cases and the days to be doubled is included in **US Coronavirus Cases Line Chart - State Level**. The graphs in the repository are planned to be updated daily depending on the update schedule of the sources of data.
+
 ### [NYC Coronavirus Cases Historical Map - ZIP Code Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/NYC_Coronavirus_Cases_ZIP.html)
 ###### Source of Data: *NYC Department of Health and Mental Hygiene (DOHMH)[ https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
 
