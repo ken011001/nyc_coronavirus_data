@@ -23,3 +23,10 @@ By using publically available datasets, I am visualizing the spead of the Corona
 
 ### [US Coronavirus Cases Historical Map - County Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Cases_Scatter_County.html)
 ###### Source of Data: *Johns Hopkins University Center for Systems Science and Engineering [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)*
+
+
+#
+
+
+
+###### For reference only, the accuracy of all the information in this repository depends on the sources of the dataset and the exact definition of the content. Sharing for this link (https://github.com/ken011001/nyc_coronavirus_data/blob/master/README.md) is not allowed unless my permission is granted. All other contents are not permitted to distribute.
