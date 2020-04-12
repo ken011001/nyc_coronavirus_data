@@ -29,4 +29,4 @@ By using publically available datasets, I am visualizing the spead of the Corona
 
 
 
-###### For reference only, the accuracy of all the information in this repository depends on the sources of the dataset and the exact definition of the content. Sharing for this link (https://github.com/ken011001/nyc_coronavirus_data/blob/master/README.md) is not allowed unless my permission is granted. All other contents are not permitted to distribute.
+###### For reference only, the accuracy of all the information in this repository depends on the sources of the dataset and the exact definition of the content. Sharing for this link (https://github.com/ken011001/nyc_coronavirus_data/blob/master/README.md) is welcomed but please notify me before hand. All other contents are not permitted to be distributed.
