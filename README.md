@@ -26,3 +26,5 @@ By using publically available datasets, I am visualizing the spead of the Corona
 
 
 ###### For reference only, the accuracy of all the information in this repository depends on the sources of the dataset and the exact definition of the content. Sharing of this link (https://github.com/ken011001/nyc_coronavirus_data/blob/master/README.md) is welcomed but please notify me before hand. All other contents are not permitted to be distributed.
+
+<iframe src="https://trinket.io/embed/python/2a23a54a88?outputOnly=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
