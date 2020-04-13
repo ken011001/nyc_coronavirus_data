@@ -10,8 +10,8 @@ By using publically available datasets, I am visualizing the spead of the Corona
 ![](NYC_Metropolitan_Daily_Tested_and_Positive_Cases.png?raw=true)
 ###### Sources of Data: 
 ###### - *NYC Department of Health and Mental Hygiene (DOHMH)[ https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
-###### - *New York State Department of Health[ https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e]*
-###### - *The COVID Tracking Project[ https://covidtracking.com/data/us-daily]*
+###### - *New York State Department of Health[ https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e)*
+###### - *The COVID Tracking Project[ https://covidtracking.com/data/us-daily](https://covidtracking.com/data/us-daily)*
 ---
 
 ### [US Coronavirus Cases Line Chart - State Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Cases_Line_State.html)
