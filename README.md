@@ -5,7 +5,7 @@ By using publically available datasets, I am visualizing the spead of the Corona
 ###### For the published version of this repository, please visit: [https://ken011001.github.io/nyc_coronavirus_data/](https://ken011001.github.io/nyc_coronavirus_data/)
 
 ---
-#### User Guide:
+#### The graphs and maps are interactive:
 - Click on the name of the graph (in blue) to read 
 - Single click the legend item to select/de-select that item (region)
 - Doulbe click the legend item to read only that item (region)
