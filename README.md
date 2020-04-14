@@ -5,6 +5,13 @@ By using publically available datasets, I am visualizing the spead of the Corona
 ###### For the published version of this repository, please visit: [https://ken011001.github.io/nyc_coronavirus_data/](https://ken011001.github.io/nyc_coronavirus_data/)
 
 ---
+#### User Guide:
+- Click on the name of the graph (in blue) to read 
+- Doulbe click the legend item to read only that item (region)
+- Point at specific region to see the detail data
+- More options on the top right corner of each graph webpage
+
+---
 
 ### [NYC Coronavirus Cases Historical Map - ZIP Code Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/NYC_Coronavirus_Cases_ZIP.html)
 ![](NYC_Metropolitan_Daily_Tested_and_Positive_Cases.png?raw=true)
