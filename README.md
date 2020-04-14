@@ -14,7 +14,7 @@ By using publically available datasets, I am visualizing the spead of the Corona
 
 ---
 
-### [NYC Coronavirus Cases Historical Map - ZIP Code Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/NYC_Coronavirus_Cases_ZIP.html)
+### [NYC Coronavirus Cases Historical Map - ZIP Code Level](https://ken011001.github.io/nyc_coronavirus_data/NYC_Coronavirus_Cases_ZIP.html)
 ![](NYC_Metropolitan_Daily_Tested_and_Positive_Cases.png?raw=true)
 ###### Sources of Data: 
 ###### - *NYC Department of Health and Mental Hygiene (DOHMH)[ https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
@@ -22,13 +22,13 @@ By using publically available datasets, I am visualizing the spead of the Corona
 ###### - *The COVID Tracking Project[ https://covidtracking.com/data/us-daily](https://covidtracking.com/data/us-daily)*
 ---
 
-### [US Coronavirus Cases Line Chart - State Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Cases_Line_State.html)
-### [US Coronavirus Daily New Cases Line Chart - State Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Daily%20New_Cases_Line_State.html)
+### [US Coronavirus Cases Line Chart - State Level](https://ken011001.github.io/nyc_coronavirus_data/US_Coronavirus_Cases_Line_State.html)
+### [US Coronavirus Daily New Cases Line Chart - State Level](https://ken011001.github.io/nyc_coronavirus_data/US_Coronavirus_Daily%20New_Cases_Line_State.html)
 ###### Source of Data: *The New York Times, based on reports from state and local health agencies [https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)*
 ---
 
 
-### [US Coronavirus Cases Historical Map - County Level](https://htmlpreview.github.io/?https://github.com/ken011001/nyc_coronavirus_data/blob/master/US_Coronavirus_Cases_Scatter_County.html)
+### [US Coronavirus Cases Historical Map - County Level](https://ken011001.github.io/nyc_coronavirus_data/US_Coronavirus_Cases_Scatter_County.html)
 ###### Source of Data: *Johns Hopkins University Center for Systems Science and Engineering [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)*
 ---
 
