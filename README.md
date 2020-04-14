@@ -7,6 +7,7 @@ By using publically available datasets, I am visualizing the spead of the Corona
 ---
 #### User Guide:
 - Click on the name of the graph (in blue) to read 
+- Single click the legend item to select/de-select that item (region)
 - Doulbe click the legend item to read only that item (region)
 - Point at specific region to see the detail data
 - More options on the top right corner of each graph webpage
