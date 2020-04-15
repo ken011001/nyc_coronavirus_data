@@ -14,9 +14,10 @@ By using publically available datasets, I am visualizing the spead of the Corona
 
 ---
 
-### [NYC Coronavirus Cases Historical Map - ZIP Code Level](https://ken011001.github.io/nyc_coronavirus_data/NYC_Coronavirus_Cases_ZIP.html)
-![](NYC_Metropolitan_Daily_Tested_and_Positive_Cases.png?raw=true)
+### [NYC Coronavirus Cases Historical Map - ZIP Code Level]
+(https://ken011001.github.io/nyc_coronavirus_data/NYC_Coronavirus_Cases_ZIP.html)
 ### [NYC NYS US Tests & Positives & Test Positive Rates Correlation: Up to Date](https://ken011001.github.io/nyc_coronavirus_data/NYC_NYS_US_Variables_Correlation_Heatmap)
+![](NYC_Metropolitan_Daily_Tested_and_Positive_Cases.png?raw=true)
 ###### Sources of Data: 
 ###### - *NYC Department of Health and Mental Hygiene (DOHMH)[ https://github.com/nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data)*
 ###### - *New York State Department of Health[ https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e)*
