@@ -7,9 +7,9 @@ By using publically available datasets, I am visualizing the spead of the Corona
 ---
 **The graphs and maps are interactive** (except for *NYC Metropolitan Daily Tested and Positive Cases*):
 - Click on the name of the graph (in blue) to read 
+- Hover your mouse (or tap if you are using mobile device) to see the detail data
 - Single click the legend item to select/de-select that item (region)
 - Doulbe click the legend item to read only that item (region)
-- Point at specific region to see the detail data
 - More options on the top right corner of each graph webpage
 
 ---
