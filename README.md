@@ -4,7 +4,8 @@ By using publically available datasets, I am visualizing the spead of the Corona
 ###### For the publishing version of this repository, please visit: [https://ken011001.github.io/nyc_coronavirus_data](https://ken011001.github.io/nyc_coronavirus_data)
 
 ---
-Data updated to:
+
+**Data updated to: 2020-04-16**
 ###### The graphs in the repository are planned to be updated daily depending on the update schedule of the sources of data.
 
 ---
