@@ -5,7 +5,7 @@ By using publically available datasets, I am visualizing the spead of the Corona
 
 ---
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) **Data updated to: 2020-04-25**
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) **Data updated to: 2020-04-26**
 ###### The graphs in the repository are planned to be updated daily depending on the update schedule of the data sources.
 
 ---
